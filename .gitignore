@@ -1,0 +1,11 @@
+SleepMode/timed-wakeup-1a/.vscode
+SleepMode/timed-wakeup-1a/build
+SleepMode/timed-wakeup-1a/CMakeLists.txt
+SleepMode/timed-wakeup-1a/sdkconfig
+SleepMode/timed-wakeup-1a/sdkconfig.old
+SleepMode/main.c
+SleepMode/ex0-gpio-wakeup-2a/.vscode
+SleepMode/ex0-gpio-wakeup-2a/build
+SleepMode/ex0-gpio-wakeup-2a/CMakeLists.txt
+SleepMode/ex0-gpio-wakeup-2a/sdkconfig
+SleepMode/ex0-gpio-wakeup-2a/sdkconfig.old
