@@ -36,8 +36,7 @@ void sleepingFunction(void * pvParameter)
 
 
 /**
- * @brief Cleaner 
- * 
+ * @brief Cleaner GPIO wake example, executing freeRTOS tasks.
  */
 void app_main()
 {
