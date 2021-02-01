@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/CMakeFiles/bootloader
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/CMakeFiles/bootloader.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/CMakeFiles/bootloader-complete.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/alex/WebsiteExamples/ESP/SleepMode/ex0-gpio-wakeup-2b/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
