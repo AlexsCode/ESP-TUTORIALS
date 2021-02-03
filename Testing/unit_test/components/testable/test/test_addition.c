@@ -26,3 +26,10 @@ TEST_CASE("testing Addition of non-zero and zero values","[addition]")
     const int b = 0;
     TEST_ASSERT_EQUAL(5,testable_addition(a,b));
 }
+
+TEST_CASE("testing addition of int and float","[addition]")
+{
+    const int a = 5;
+    float     b = 1.5;
+    TEST_ASSERT_EQUAL(6,testable_further_addition(a,b));
+}

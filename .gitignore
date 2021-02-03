@@ -9,3 +9,12 @@ SleepMode/ex0-gpio-wakeup-2a/build
 SleepMode/ex0-gpio-wakeup-2a/CMakeLists.txt
 SleepMode/ex0-gpio-wakeup-2a/sdkconfig
 SleepMode/ex0-gpio-wakeup-2a/sdkconfig.old
+Testing/unit_test/test/build
+Testing/unit_test/build
+Testing/unit_test/.vscode
+Testing/unit_test/components/testable/CMakeLists.txt
+Testing/unit_test/components/testable/component.mk
+Testing/unit_test/README.md
+Testing/unit_test/sdkconfig
+Testing/unit_test/Makefile
+Testing/unit_test/sdkconfig.old
